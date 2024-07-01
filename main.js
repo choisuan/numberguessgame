@@ -24,5 +24,3 @@ function play() {
     }
     console.log(userValue)
 }
-
-play()
